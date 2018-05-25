@@ -25,7 +25,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
     "uniqCompNum": 10,
-    "versionPublish": "4.7.2"
+    "versionPublish": "4.7.6",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
