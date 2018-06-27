@@ -25,9 +25,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
     "uniqCompNum": 10,
-    "versionPublish": "4.7.6",
-    "siteFonts": [],
-    "screenshot": "screenshot.png"
+    "versionPublish": "4.7.8",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -60,9 +59,9 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "Best Online SSC CGL Coaching",
+          "title": "All India Free Mock Test<br>Win Cash Prize",
           "text": "SSCTopper provides complete one stop coaching for SSC. An initiative of IITians to prepare the students for SSC CGL.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header3-6\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://ssctopper.testpress.in\" data-toolbar=\"-mbrBtnMove\">ONLINE EXAM</a>  ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header3-6\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://test.ssctopper.com/ssc-cglchsl/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">START FREE TEST</a>   ",
           "_tags": [
             "Theme"
           ],
